@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Playfair+Display&family=Poppins:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#links1{
+    background-color: #ff0202;
+    text-align: center;
+    padding: 2rem;
+    margin: auto 20rem;
+    border-radius: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:link{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:visited{
+    color: #ffffff;
+}
+
+#head1{
+    font-size: 70px;
+    text-align: center;
+    margin: auto;
+    font-family: cursive;
+    color: #6b2424;
+}
+
+#head1::first-letter{
+    color: #aeec5d;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+}
+
+#para1{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #c04747;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#para2{
+    width: 40px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#para3{
+    width: 220px;
+    text-align: center;
+    margin: auto;
+    color: #4b994b;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
